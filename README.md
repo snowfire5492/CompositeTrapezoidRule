@@ -1,3 +1,3 @@
 # Numerical Methods
 
-Composite Trapezoid Rule in Java
+Composite Trapezoid Rule in Java.
